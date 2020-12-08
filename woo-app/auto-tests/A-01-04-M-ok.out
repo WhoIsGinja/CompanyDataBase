@@ -1,0 +1,58 @@
+Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Produtos
+1 - Visualizar
+2 - Registar Caixa
+3 - Registar Contentor
+4 - Registar Livro
+5 - Alterar Preço
+0 - Sair
+Escolha uma opção: BOOK|B1256|S1|58|2|5|Os Lusíadas|Luís de Camões|1234567890
+BOOK|B9854|S1|75|2|5|Head First Java|Sierra & Bates|9876543210
+BOX|C6H5OH|S1|2|20|100|NORMAL
+BOX|H2|S1|4|20|100|AIR
+CONTAINER|M2|S1|4|20|100|AIR|C4
+CONTAINER|M3|S1|16|20|0|PERSONAL|DL
+BOX|X2|S1|4|20|100|AIR
+Gestão de Produtos
+1 - Visualizar
+2 - Registar Caixa
+3 - Registar Contentor
+4 - Registar Livro
+5 - Alterar Preço
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Ficheiro sem nome. Guardar ficheiro como: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: 

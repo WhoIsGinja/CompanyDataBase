@@ -1,0 +1,53 @@
+*** auto-tests/A-03-05-M-ok.out	2020-10-28 21:53:04.004427800 +0000
+--- auto-tests/A-03-05-M-ok.outhyp	2020-11-25 10:39:13.741683600 +0000
+***************
+*** 17,23 ****
+  4 - Activa/desactivar notificações de um produto
+  5 - Mostrar transacções do cliente
+  0 - Sair
+! Escolha uma opção: Identificador do cliente: E4|Filomena Figueiredo|Lisboa, Portugal|NORMAL|0|0
+  Gestão de Clientes
+  1 - Mostrar cliente
+  2 - Mostrar clientes
+--- 17,23 ----
+  4 - Activa/desactivar notificações de um produto
+  5 - Mostrar transacções do cliente
+  0 - Sair
+! Escolha uma opção: Identificador do cliente: Mostrar cliente: Operação inválida: O cliente 'e4' não existe.
+  Gestão de Clientes
+  1 - Mostrar cliente
+  2 - Mostrar clientes
+***************
+*** 25,31 ****
+  4 - Activa/desactivar notificações de um produto
+  5 - Mostrar transacções do cliente
+  0 - Sair
+! Escolha uma opção: Identificador do cliente: H2SO4|John Figueiredo|Wellington, New Zealand|NORMAL|0|0
+  Gestão de Clientes
+  1 - Mostrar cliente
+  2 - Mostrar clientes
+--- 25,31 ----
+  4 - Activa/desactivar notificações de um produto
+  5 - Mostrar transacções do cliente
+  0 - Sair
+! Escolha uma opção: Identificador do cliente: Mostrar cliente: Operação inválida: O cliente 'h2so4' não existe.
+  Gestão de Clientes
+  1 - Mostrar cliente
+  2 - Mostrar clientes
+***************
+*** 33,39 ****
+  4 - Activa/desactivar notificações de um produto
+  5 - Mostrar transacções do cliente
+  0 - Sair
+! Escolha uma opção: Identificador do cliente: H2SO4|John Figueiredo|Wellington, New Zealand|NORMAL|0|0
+  Gestão de Clientes
+  1 - Mostrar cliente
+  2 - Mostrar clientes
+--- 33,39 ----
+  4 - Activa/desactivar notificações de um produto
+  5 - Mostrar transacções do cliente
+  0 - Sair
+! Escolha uma opção: Identificador do cliente: Mostrar cliente: Operação inválida: O cliente 'h2So4' não existe.
+  Gestão de Clientes
+  1 - Mostrar cliente
+  2 - Mostrar clientes

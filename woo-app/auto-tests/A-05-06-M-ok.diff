@@ -1,0 +1,23 @@
+*** auto-tests/A-05-06-M-ok.out	2020-10-28 18:51:43.957178800 +0000
+--- auto-tests/A-05-06-M-ok.outhyp	2020-11-25 10:39:16.401494000 +0000
+***************
+*** 56,64 ****
+  5 - Mostrar transacções do cliente
+  0 - Sair
+  Escolha uma opção: A|a|a|NORMAL|0|0
+- aa|AAAAA|aaa|NORMAL|0|0
+  PP|pp|PP PP|NORMAL|0|0
+  WW|WWW|WWW WWW WMW|NORMAL|0|0
+  Gestão de Clientes
+  1 - Mostrar cliente
+  2 - Mostrar clientes
+--- 56,64 ----
+  5 - Mostrar transacções do cliente
+  0 - Sair
+  Escolha uma opção: A|a|a|NORMAL|0|0
+  PP|pp|PP PP|NORMAL|0|0
+  WW|WWW|WWW WWW WMW|NORMAL|0|0
++ aa|AAAAA|aaa|NORMAL|0|0
+  Gestão de Clientes
+  1 - Mostrar cliente
+  2 - Mostrar clientes

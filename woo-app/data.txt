@@ -1,0 +1,21 @@
+SUPPLIER|S1|Toshiba|Tokyo, Japan
+SUPPLIER|W2|Papelaria Fernandes|Oeiras, Portugal
+SUPPLIER|P1|Publicações Europa-América|Lisboa, Portugal
+SUPPLIER|P3|O’Reilly|Köln, Germany
+CLIENT|R2|Jorge Figueiredo|Lisboa, Portugal
+CLIENT|E4|Filomena Figueiredo|Lisboa, Portugal
+CLIENT|ER|Abdul Figueiredo|Casablanca, Morocco
+CLIENT|O9|Hellen Figueiredo|San Francisco, CA, USA
+CLIENT|H2SO4|John Figueiredo|Wellington, New Zealand
+CLIENT|H2O|Rohit Figueiredo|New Delhi, India
+BOX|C6H5OH|NORMAL|W2|2|20|100
+BOX|H2|AIR|W2|4|20|100
+BOX|O3|EXPRESS|W2|8|20|100
+BOX|CO2|PERSONAL|W2|16|20|0
+CONTAINER|M4|NORMAL|B4|W2|2|20|100
+CONTAINER|M2|AIR|C4|W2|4|20|100
+CONTAINER|M5|EXPRESS|B4|W2|8|20|100
+CONTAINER|M3|PERSONAL|DL|W2|16|20|0
+BOOK|B1256|Os Lusíadas|Luís de Camões|1234567890|P1|58|2|5
+BOOK|B9854|Head First Java|Sierra & Bates|9876543210|P3|75|2|5
+BOOK|B1937|How to fix almost everything|Satoshi Yamada|1928374650|S1|5|2|5

@@ -1,0 +1,19 @@
+*** auto-tests/A-01-11-M-ok.out	2020-10-28 18:39:43.154175000 +0000
+--- auto-tests/A-01-11-M-ok.outhyp	2020-11-25 10:39:11.725835200 +0000
+***************
+*** 22,28 ****
+  9 - Menu de Consultas
+  10 - Ver Saldo Global
+  0 - Sair
+! Escolha uma opção: Data actual: 10
+  Menu Principal
+  1 - Abrir
+  2 - Guardar
+--- 22,28 ----
+  9 - Menu de Consultas
+  10 - Ver Saldo Global
+  0 - Sair
+! Escolha uma opção: Data actual: 0
+  Menu Principal
+  1 - Abrir
+  2 - Guardar

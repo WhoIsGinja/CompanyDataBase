@@ -1,0 +1,31 @@
+*** auto-tests/A-01-08-M-ok.out	2020-10-28 18:38:15.367236000 +0000
+--- auto-tests/A-01-08-M-ok.outhyp	2020-11-25 10:39:11.417775100 +0000
+***************
+*** 67,73 ****
+  9 - Menu de Consultas
+  10 - Ver Saldo Global
+  0 - Sair
+! Escolha uma opção: Menu Principal
+  1 - Abrir
+  2 - Guardar
+  3 - Mostrar Data
+--- 67,73 ----
+  9 - Menu de Consultas
+  10 - Ver Saldo Global
+  0 - Sair
+! Escolha uma opção: Ficheiro sem nome. Guardar ficheiro como: Menu Principal
+  1 - Abrir
+  2 - Guardar
+  3 - Mostrar Data
+***************
+*** 79,82 ****
+  9 - Menu de Consultas
+  10 - Ver Saldo Global
+  0 - Sair
+! Escolha uma opção: 
+\ No newline at end of file
+--- 79,82 ----
+  9 - Menu de Consultas
+  10 - Ver Saldo Global
+  0 - Sair
+! Escolha uma opção: Fim de entrada de dados (R-EOF): pt.tecnico.po.io.RuntimeEOFException: Fim do fluxo de dados de entrada

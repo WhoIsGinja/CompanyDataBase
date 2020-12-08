@@ -1,0 +1,45 @@
+Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: Gestão de Clientes
+1 - Mostrar cliente
+2 - Mostrar clientes
+3 - Registar cliente
+4 - Activa/desactivar notificações de um produto
+5 - Mostrar transacções do cliente
+0 - Sair
+Escolha uma opção: e4|Filomena Figueiredo|Lisboa, Portugal|NORMAL|0|0
+ER|Abdul Figueiredo|Casablanca, Morocco|NORMAL|0|0
+h2o|Rohit Figueiredo|New Delhi, India|NORMAL|0|0
+H2SO4|John Figueiredo|Wellington, New Zealand|NORMAL|0|0
+o9|Hellen Figueiredo|San Francisco, CA, USA|NORMAL|0|0
+R2|Jorge Figueiredo|Lisboa, Portugal|NORMAL|0|0
+Gestão de Clientes
+1 - Mostrar cliente
+2 - Mostrar clientes
+3 - Registar cliente
+4 - Activa/desactivar notificações de um produto
+5 - Mostrar transacções do cliente
+0 - Sair
+Escolha uma opção: Menu Principal
+1 - Abrir
+2 - Guardar
+3 - Mostrar Data
+4 - Avançar Data
+5 - Gestão de Produtos
+6 - Gestão de Clientes
+7 - Gestão de Fornecedores
+8 - Gestão de Transacções
+9 - Menu de Consultas
+10 - Ver Saldo Global
+0 - Sair
+Escolha uma opção: 
